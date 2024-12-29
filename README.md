@@ -1,5 +1,11 @@
-## Hi there 👋
+# About me
 
+- 🌱 I’m currently learning from zero for I'll become in a great developer full stack
+- 🌱 I'm too learning english, actually my english level is basic. i am baby with regard to tech world but I will be a **great professional** in it. I know.
+- 📫 How to reach me: In Ig like **[@sbjesus17](https://www.instagram.com/sbjesus17/)**
+- 😄 Pronouns: In search of one.
+
+*I'm building a better version of myself as well as my readme.md*
 <!--
 **jesuscode17/jesuscode17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
